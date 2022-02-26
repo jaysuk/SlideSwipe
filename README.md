@@ -1,4 +1,4 @@
-# SlideSwipe 1.0 (magnetic probe for the voron v0.1)
+# SlideSwipe - Euclid Probe Edition
 ## Introduction
 I liked the idea of the [SlideSwipe](https://github.com/chestwood96/SlideSwipe) method of deploying the probe but wanted to use an [Euclid Probe](https://euclidprobe.github.io/) so I have modified it to suit.
 Taking probe             |  Stowing probe
